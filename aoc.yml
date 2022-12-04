@@ -1,0 +1,6 @@
+name: aoc
+channels:
+  - conda-forge
+dependencies:
+  - Python=3.11
+  - more-itertools=9.0.0
