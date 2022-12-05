@@ -4,3 +4,4 @@ channels:
 dependencies:
   - Python=3.11
   - more-itertools=9.0.0
+  - parse=1.19.0
